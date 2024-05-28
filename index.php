@@ -46,10 +46,7 @@ if (json_last_error() !== JSON_ERROR_NONE) {
 </head>
 
 <main>
-    <pre style="font-size: 10px; overflow:scroll; height: 350px">
-        <?php var_dump($data)?>
-    </pre>
-
+   
 <section>
 
 <h2>La Proxima Pelicula de Marvel</h2>
